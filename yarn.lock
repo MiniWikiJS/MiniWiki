@@ -1977,10 +1977,15 @@ styled-jsx@5.1.6:
   dependencies:
     client-only "0.0.1"
 
-tailwindcss@4.2.2, tailwindcss@^4.2.2:
+tailwindcss@4.2.2:
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.2.2.tgz#688fb0751c8ca9044e890546510a2ee817308e87"
   integrity sha512-KWBIxs1Xb6NoLdMVqhbhgwZf2PGBpPEiwOqgI4pFIYbNTfBXiKYyWoTsXgBQ9WFg/OlhnvHaY+AEpW7wSmFo2Q==
+
+tailwindcss@^4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.3.2.tgz#408ee67d767a0fef7b174674bb9c5ce136a5ace1"
+  integrity sha512-WtctNNSH8A9jlMIqxzuYumOHU5uGZyRv0Q5svQl+oEPy5w84YpBxdb7MdqyiSPQge5jTJ6zFQLq0PFygdccSBA==
 
 tapable@^2.3.0:
   version "2.3.2"
